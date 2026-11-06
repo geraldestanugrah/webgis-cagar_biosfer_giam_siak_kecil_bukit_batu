@@ -1,4 +1,4 @@
-# WebGIS Tutupan Lahan,Fragmentasi Lanskap, Kelembapan Permukaan, dan Suhu Permukaan
+# WebGIS Tutupan Lahan, Fragmentasi Lanskap, Kelembapan Permukaan, dan Suhu Permukaan
 Cagar Biosfer Giam Siak Kecil–Bukit Batu
 
 **Peta interaktif:** https://geraldestanugrah.github.io/webgis-cagar_biosfer_giam_siak_kecil_bukit_batu/
